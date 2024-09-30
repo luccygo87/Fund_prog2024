@@ -4,7 +4,7 @@ def calcular_descuento(precio_total, porcentaje_descuento=10):
 
 # Llamadas a la función
 precio1 = 1520  # precio total de la compra
-porcentaje1 = 10  # Porcentaje de descuento
+porcentaje1 =  10  # Porcentaje de descuento
 descuento1 = calcular_descuento(precio1)
 precio_final1 = precio1 - descuento1
 

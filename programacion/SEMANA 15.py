@@ -4,7 +4,7 @@ informacion_personal = {
     "ciudad": "Quito",
     "profesion": "bachiller contador",
     "universida": "Estatal Amazonica",
-    "estudio actual": "primer cemestre carrera de tecnologias de la informacion"
+    "estudio actual": "primer semestre carrera de tecnologias de la informacion"
 }
 
 # Acceder y modificar el valor de la clave "ciudad"
@@ -17,7 +17,7 @@ informacion_personal["profesion"] = "Bachiller Contador"
 if "estudio actual" in informacion_personal:
     print("La clave 'estudio actual' existe en el diccionario.")
 else:
-    informacion_personal["estudio actual"] = "primer cemestre carrera de tecnologias de la informacion"
+    informacion_personal["estudio actual"] = "primer semestre carrera de tecnologias de la informacion"
     print("La clave 'estudio actual' fue agregada al diccionario.")
 
 # Verificar si la clave "telefono" existe en el diccionario

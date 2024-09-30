@@ -6,7 +6,7 @@ libros = {
     "Tecnología e Ingeniería",
 # año_publicacion":
      2021,
-# numero_hojas":
+# numero_hojas":,
      500,
 # Autor":
     "Juan Garcia"
